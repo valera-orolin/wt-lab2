@@ -1,0 +1,13 @@
+by.tc.task01
+by.tc.task01.Exceptions
+by.tc.task01.dao
+by.tc.task01.dao.factory
+by.tc.task01.dao.impl
+by.tc.task01.entity
+by.tc.task01.entity.criteria
+by.tc.task01.entity.enums
+by.tc.task01.main
+by.tc.task01.service
+by.tc.task01.service.impl
+by.tc.task01.service.validation
+by.tc.task01.service.validation.impl
