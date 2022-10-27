@@ -1,0 +1,39 @@
+<appliances>
+    <teapot>
+        <price>100</price>
+        <power>1000</power>
+        <weight>10</weight>
+        <bulk>1</bulk>
+        <color>BLUE</color>
+    </teapot>
+    <teapot>
+        <price>200</price>
+        <power>1000</power>
+        <weight>5</weight>
+        <bulk>2</bulk>
+        <color>RED</color>
+    </teapot>
+	
+	<fridge>
+        <price>15000</price>
+        <color>BLACK</color>
+        <company>SAMSUNG</company>
+    </fridge>
+
+    <laptop>
+        <price>10000</price>
+        <battery_capacity>1000</battery_capacity>
+        <os>WINDOWS</os>
+        <memory_rom>16000</memory_rom>
+        <cpu>AMD_RYZEN_9_5900X</cpu>
+        <display_inches>15.6</display_inches>
+    </laptop>
+    <laptop>
+        <price>8500</price>
+        <battery_capacity>2000</battery_capacity>
+        <os>LINUX</os>
+        <memory_rom>16000</memory_rom>
+        <cpu>INTEL_CORE_I5_11600K</cpu>
+        <display_inches>13.5</display_inches>
+    </laptop>
+</appliances>
